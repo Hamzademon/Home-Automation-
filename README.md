@@ -8,7 +8,7 @@ Key Components:
 
 ESP32 Board: Serves as the main control hub, enabling communication and coordination among connected devices.
 TTP223 Touch Sensors (6 for bulbs, 2 for fan speeds): These sensors facilitate manual control for six bulbs and two fan speeds, allowing tactile interaction for users.
-Smartphone Integration: Access and manage appliance control and lighting settings via a dedicated mobile app, providing convenience and flexibility from anywhere.
+Smartphone Integration: Access and manage appliance control and lighting settings via a dedicated mobile app, providing convenience and flexibility from anywhere. (OPEN HAB)
 Web Dashboard: A user-friendly web interface grants control over appliances and lighting, enhancing accessibility across multiple devices.
 Power Consumption Monitoring: Users can monitor real-time power consumption and wattage of connected appliances, offering insights into energy usage.
 Features:
