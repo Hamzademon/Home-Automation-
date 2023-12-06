@@ -19,17 +19,9 @@ Web-Based Interface: Accessible via web browsers, the dashboard provides a user-
 Energy Monitoring: Keep track of energy consumption for informed decision-making on usage optimization and efficiency.
 Benefits:
 
-Convenience: Effortlessly manage home devices and lighting from various interfaces, ensuring convenience and flexibility.
-Energy Efficiency: Gain insights into power consumption, aiding in making informed choices to promote energy-efficient practices.
-Customization: The system allows for personalized settings and control preferences based on individual needs.
-Usage:
 
-Installation Guide: Detailed instructions for setting up the ESP32 board and connecting touch sensors, facilitating easy replication of the project.
-Documentation: Comprehensive documentation outlining functionalities, API references, and troubleshooting guides for users and contributors.
 Conclusion:
 This home automation project utilizing an ESP32 board and touch sensors provides a comprehensive solution for managing household appliances, lighting, and energy consumption. The integration of mobile and web interfaces ensures convenience and accessibility while promoting energy-efficient practices.
-
-Feel free to personalize and expand on each section as needed in your GitHub repository, highlighting the technical aspects, code snippets, diagrams, and any additional details to make it comprehensive and user-friendly for your audience.
 
 I have uploaded the Pcb and code files for this project.
 
