@@ -1,5 +1,5 @@
 # Home-Automation
-itle: Home Automation with ESP32 Board
+title: Home Automation with ESP32 Board
 
 Overview:
 This home automation project utilizes an ESP32 board as the central controller, offering seamless control over various household appliances and lighting fixtures.
