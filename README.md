@@ -31,7 +31,7 @@ This home automation project utilizing an ESP32 board and touch sensors provides
 
 Feel free to personalize and expand on each section as needed in your GitHub repository, highlighting the technical aspects, code snippets, diagrams, and any additional details to make it comprehensive and user-friendly for your audience.
 
-
+I have uploaded the Pcb and code files for this project.
 
 
 
